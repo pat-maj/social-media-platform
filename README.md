@@ -3,9 +3,9 @@
 Chirrup is a full-stack social media application developed as a part of the Full Stack Web Development unit at Manchester Metropolitan University. This project demonstrates a full-featured application designed to scale, incorporating best practices and modern development techniques.
 
 ## Features
-**Backend Server:** Built with Node.js and Express.js, implementing RESTful API endpoints as specified in the provided Swagger documentation.
-**Frontend Client:** Developed using Vue.js to create a responsive and interactive user experience.
-**Extension Tasks:** Additional features like profanity filters and local draft storage.
+- **Backend Server:** Built with Node.js and Express.js, implementing RESTful API endpoints as specified in the provided Swagger documentation.
+- **Frontend Client:** Developed using Vue.js to create a responsive and interactive user experience.
+- **Extension Tasks:** Additional features like profanity filters and local draft storage.
 
 ## Development
 The project structure is divided into two main directories: backend-server and frontend-app, encapsulating the server-side and client-side code, respectively.
