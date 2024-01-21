@@ -12,6 +12,7 @@ The project structure is divided into two main directories: backend-server and f
 
 ## Backend Server
 ![image](https://github.com/pat-maj/social-media-platform/assets/131804907/01a2d99d-8d93-4cdc-816c-98ba59222b21)
+
 At the heart of Chirrup's server-side, the Node.js and Express.js stack offers robustness and efficiency. The backend server features:
 - **Controllers:** Manage the request-response cycle for user accounts, posts, and social interactions, ensuring RESTful API standards.
 - **Models:** Define data structures for users, posts, and other entities, interfacing seamlessly with a SQLite database for persistence.
@@ -20,6 +21,7 @@ At the heart of Chirrup's server-side, the Node.js and Express.js stack offers r
 
 ## Frontend Client
 ![image](https://github.com/pat-maj/social-media-platform/assets/131804907/7d82fb0f-0a28-4780-b383-babe4aa80fc4)
+
 Chirrup's frontend is crafted using Vue.js, providing a reactive and engaging user experience. Key aspects include:
 - **Components:** Reusable UI components like CreatePost and LikePost enhance user interactivity and reduce code redundancy.
 - **Views:** Dedicated views for each page, including Home, Profile, and Login, structured for a seamless user journey.
